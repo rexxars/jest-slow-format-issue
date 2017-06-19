@@ -1,0 +1,26 @@
+{
+  "name": "jest-slow-format-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "profile": "0x node ./node_modules/jest-cli/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexxars/jest-slow-format-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rexxars/jest-slow-format-issue/issues"
+  },
+  "homepage": "https://github.com/rexxars/jest-slow-format-issue#readme",
+  "dependencies": {
+    "0x": "^2.4.2",
+    "jest": "^20.0.4",
+    "pretty-format": "^20.0.3"
+  }
+}
